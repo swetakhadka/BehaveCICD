@@ -4,15 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="da5572a2-ba80-46c0-b8e9-7c55cf5a343e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/calculatorProject.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/features/calculator.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/features/steps/cal_practice.py" afterDir="false" />
+    <list default="true" id="da5572a2-ba80-46c0-b8e9-7c55cf5a343e" name="Changes" comment="https://github.com/swetakhadka/cicdPractice.git">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,6 +48,19 @@
       <option name="presentableId" value="Default" />
       <updated>1732515342805</updated>
     </task>
+    <task id="LOCAL-00001" summary="https://github.com/swetakhadka/cicdPractice.git">
+      <option name="closed" value="true" />
+      <created>1732531774696</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1732531774696</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="https://github.com/swetakhadka/cicdPractice.git" />
+    <option name="LAST_COMMIT_MESSAGE" value="https://github.com/swetakhadka/cicdPractice.git" />
   </component>
 </project>
